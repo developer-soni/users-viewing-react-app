@@ -1,0 +1,19 @@
+.not-found{
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+  color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.user-box{
+  max-width: 350px;
+}
+
+.user-info{
+  background-color: #000000;
+}
